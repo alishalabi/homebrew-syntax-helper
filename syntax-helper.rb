@@ -1,5 +1,5 @@
 require 'rbconfig'
-class Syntax_Helper < Formula
+class SyntaxHelper < Formula
   desc ""
   homepage "https://github.com/alishalabi/syntax-helper"
   version "snapshot"
